@@ -1,0 +1,6 @@
+HTML(HyperText Markup Language)
+content가 무엇인지 브라우저에게 알려주는 역할을 한다.
+몸을 따지면 뼈대 역할을 한다. 매우 중요하며, 웹사이트를 구성하는데에 필수적인 요소이다.
+
+시멘틱 태그를 자주 활용해야 한다. => 가독성이 높아짐
+<header><main><footer> 등

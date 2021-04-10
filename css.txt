@@ -1,0 +1,27 @@
+CSS(Cascading Style Sheet)
+몸으로 따지면 뼈위에 붙는 근육과 같다.
+심심한 HTML 문서를 꾸며주는 역할을 한다.
+위에서 아래로 읽으면서 진행된다.
+
+
+* box => block (옆에 아무것도 올 수 없음)
+block은 width, height가 존재한다.
+
+* not box => inline (옆에 content가 올 수 있음)
+inline은 width, height가 존재하지 않는다.
+
+* block을 inline으로 바꾸는 방법?
+=> display 속성 (디폴트값은 각 태그마다 다름) 변경
+=> inline이 디폴트라면 block으로 block이 디폴트라면 inline으로...
+
+* block의 세가지 중요 특징 -> margin, padding, border
+margin => box의 border의 바깥에 있는 공간
+padding => 
+
+주는 값 
+margin : 10px 11px; => 수평 10px, 수직 11px
+margin : 20px 5px 12px 9px; => 위 20px  오른쪽 5px  아래 12px  왼쪽 9px (시계방향)
+
+Collapsing margins 현상
+서로의 margin이 동일해지는 현상
+=> 일어나는 경우 : 경계가 서로 같을 때 
