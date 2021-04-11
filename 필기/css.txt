@@ -108,3 +108,4 @@ button : [active, hover, focus, visited, focus-within]
 *:root {--main-color: #fcce00}
 => 변수로 지정하여 어디서든 쓸 수 있음
     색의 변경이 있을 경우 그 색이 선언된 모든 코드를 바꿀 필요가 없어진다.
+적용 p { color : var(--main-color); }
