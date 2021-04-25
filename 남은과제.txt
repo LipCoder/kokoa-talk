@@ -1,0 +1,15 @@
+코코아톡 숙제 : 
+
+more 아이콘, 설정 아이콘 우상단에 빨간점 표시 (변동 알림)
+
+friends에서 user-component의 margin-bottom 추가
+
+grey 색 variable 만들기
+
+More 페이지에서 빨간 느낌표 추가
+
+Status-bar 고정
+
+메시지 에니메이션 하나씩 나오도록
+왼쪽 -> 오른쪽으로
+오른쪽 -> 왼쪽으로
